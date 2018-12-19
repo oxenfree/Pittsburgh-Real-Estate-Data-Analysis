@@ -4,3 +4,5 @@ __pycache__
 data/
 local.py
 data.bak
+*.docx
+main.slides.html
